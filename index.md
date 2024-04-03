@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my home
 ---
 
 Nice work setting the theme! ✨
